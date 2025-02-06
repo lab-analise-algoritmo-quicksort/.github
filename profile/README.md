@@ -7,6 +7,7 @@ Este repositório contém materiais relacionados à apresentação do algoritmo 
 - **Flavio Alessandro Sousa Silva** - 1221194540
 - **Rodrigo Oliveira Araújo** - 1221183297
 - **Gabriel Dantas Pimentel** - 1222129385
+- **Beatriz Brito Aranha** - 1221137244
 
 ## Objetivo
 A apresentação tem como objetivo explicar o funcionamento do algoritmo QuickSort, abordando:
